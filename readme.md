@@ -2,8 +2,8 @@ https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hl
 - started 20231119
 - chapter 1 getting started 20231119
 - chapter 2 prompt templates 20231119
-- chapter 3 LLM chains todo 
-- chapter 4 langchain loaders
+- chapter 3 LLM chains todo 20240415
+- chapter 4 langchain loaders 20240415
 - chapter 5 chatbot memory
 - chapter 6 chat openai
 - chapter 7 fixing hallucinations
